@@ -1,4 +1,18 @@
 # Client Task A #
 # Add your pseudocode to this file below this line: #
+Comments begin: Task A: Guess the Number Game
+
+Write pseudocode for a number guessing game. The computer chooses a random number between 1 and 10, and the player has 3 chances to guess.
+Comments end
+
+
+1. Create a variable called number
+2. randomly generate a number between 1 and 10
+3. insert generated number into the variable called number
+4. prompt player to choose number between 1 and 10
+5. store player chosen number as variable called playernumber
+6. compare playernumber to number if they are equal output You win congrats
+7. check playernumber to see if this is first or second guess, if so continue to next step, if not end here and output YOU LOSE
+7. if they are not equal loop back to step 3
 # ------------------------------------------------- #
 
