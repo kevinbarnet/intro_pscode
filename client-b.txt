@@ -1,4 +1,16 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
+#Task B: Find the Spot
+
+#Develop a mapping (walking) application to find a specific set location in a large warehouse store for a customer. The customer can move north, south, east, or west.
+
+
+1. get spot location that's already established
+2. prompt user n, s, e, w
+3. navigate direction user chooses
+4. if user becomes closer generate an output: "warm"
+5. if user becomes further generate an output: "cold"
+6. if cold loopback to step 2
+7. if user location and spot location are equal output: You've arrived
 # ------------------------------------------------- #
 
